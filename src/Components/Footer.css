@@ -1,0 +1,114 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  background-color: #0c3254;
+  color: black;
+}
+
+.footer-data {
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact-details {
+  text-align: left;
+  letter-spacing: 1.5px;
+  margin: 15px;
+}
+
+.usefull-links {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+  margin: 15px;
+}
+
+
+
+
+
+
+.contact-social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0px;
+}
+
+.social-icon {
+  margin: 10px;
+  position: relative;
+  font-size: 30px;
+  line-height: 80px;
+  z-index: 2;
+  transition: color 0.5s;
+}
+
+
+.social{
+  display: flex;
+  gap: 30px;
+}
+
+.social a{
+  position: relative;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  text-decoration: none;
+  color: #000;
+  background: linear-gradient(145deg, #ffffff, #d9e0e6);
+  box-shadow: inset 6px 6px 14px #8e9396,
+          inset -6px -6px 14px #ffffff;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.social a .fa-brands{
+  position: relative;
+  font-size: 30px;
+  line-height: 80px;
+  z-index: 2;
+  transition: color 0.5s;
+  
+}
+
+.social a::after{
+  content: '';
+  width: 100%;
+  height: 100%;
+  top: -90px;
+  left: 0;
+  background: linear-gradient(-45deg, #12c2e9, #c471ed, #ffffff);
+  position: absolute;
+  border-radius: 25px;
+  transition: 0.5s ease;
+}
+
+.social a:hover::after{
+  top: 0;
+}
+
+
+.social a:hover .fa-brands{
+  color: #fff;
+  text-shadow:  1px 2px 14px #8e93969c,
+           -1px -2px 14px #ffffffb7;
+
+}
+
+.copyright-details p {
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 1.15px;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+.copyright-details span {
+  font-size: 15px;
+}
+
+

@@ -1,0 +1,25 @@
+*{
+    margin-bottom: 0px!important;
+}
+
+.welcome-box{
+    width: 100%;
+    height: auto;
+    background-color: #0c3254;
+    text-align: center;
+}
+
+.welcome-title{
+    font-size: 25px;
+    font-weight: 800;
+    padding-bottom: 15px;
+    color:#ffffff;
+}
+.welcome-message{
+    font-size: 25px;
+    font-weight: 800;
+    padding-bottom: 15px;
+    color:#ffffff;
+}
+
+

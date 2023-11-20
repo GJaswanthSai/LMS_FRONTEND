@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d0664cf.css",
+    "main.js": "/static/js/main.b5866fff.js",
+    "static/js/787.5ad96c4b.chunk.js": "/static/js/787.5ad96c4b.chunk.js",
+    "static/media/harrypotter.png": "/static/media/harrypotter.f2258f4dfa585594fb78.png",
+    "static/media/library.jpeg": "/static/media/library.0ba731bb07d8974b2fba.jpeg",
+    "static/media/librarybooks.jpg": "/static/media/librarybooks.07cee441188f49fef4bb.jpg",
+    "static/media/chennai.jpg": "/static/media/chennai.709933665b4ffe26d0ad.jpg",
+    "static/media/call.jpg": "/static/media/call.51e0a93f4244454a242f.jpg",
+    "static/media/timesnow.jpg": "/static/media/timesnow.54fe6510d2f756becd6c.jpg",
+    "index.html": "/index.html",
+    "main.8d0664cf.css.map": "/static/css/main.8d0664cf.css.map",
+    "main.b5866fff.js.map": "/static/js/main.b5866fff.js.map",
+    "787.5ad96c4b.chunk.js.map": "/static/js/787.5ad96c4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d0664cf.css",
+    "static/js/main.b5866fff.js"
+  ]
+}
