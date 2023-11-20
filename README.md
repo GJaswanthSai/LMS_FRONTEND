@@ -1,8 +1,8 @@
-## Library Management System
+### Library Management System
 
 A web app for managing all the activities of a library like managing members and book transactions, built on MERN Stack
 
-## Features Of LMS 
+### Features Of LMS 
 
 - Admin Login and Student Login
 - Admin and Student Dashboard
@@ -13,7 +13,7 @@ A web app for managing all the activities of a library like managing members and
 - Showing Popular books and Recently Uploaded Books
 - Online News
 
-- ## Setup 
+ ### Setup 
 
 - Fork the Repo
 
@@ -29,7 +29,7 @@ A web app for managing all the activities of a library like managing members and
 
 3. Run `npm start` to start the application
 
- ## Technologies 🛠
+ ### Technologies 🛠
 
 - ReactJS[Hooks]
 - NodeJs
